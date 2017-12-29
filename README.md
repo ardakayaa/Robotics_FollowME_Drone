@@ -8,14 +8,14 @@ In this project I have used an FCN (fully-convolutional neural network) to paint
 - https://github.com/udacity/RoboND-DeepLearning
 
 # WRITEUP and other Requirements
-- writeup: 
-- model: 
-- weights: 
-- html: 
+- writeup: https://github.com/ardakayaa/Robotics_FollowME_Drone/blob/master/docs/WRITEUP.pdf
+- model: https://github.com/ardakayaa/Robotics_FollowME_Drone/blob/master/data/weights/config_model_weights.h5
+- weights: https://github.com/ardakayaa/Robotics_FollowME_Drone/blob/master/data/weights/model_weights.h5
+- html: https://github.com/ardakayaa/Robotics_FollowME_Drone/blob/master/code/model_training.html
 
 # Jupyter Notebook 
 - I ran this on Udacity Robotics Laboratory Community AMI in AWS 
-- 
+- https://github.com/ardakayaa/Robotics_FollowME_Drone/blob/master/code/model_training.ipynb
 
 # Images Used
 - [New training Data](https://s3-us-west-1.amazonaws.com/udacity-robotics/Deep+Learning+Data/Lab/train.zip)
